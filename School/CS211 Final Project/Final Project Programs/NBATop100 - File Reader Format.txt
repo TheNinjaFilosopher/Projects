@@ -1,0 +1,1000 @@
+1
+Milwaukee Bucks
+Giannis Antetokounmpo
+18.8
+8.3
+4.1
+52.10%
+74.20%
+21.9
+1
+2
+Los Angeles Clippers
+Kawhi Leonard
+17.7
+6.3
+2.4
+49.50%
+84.80%
+22.6
+2
+3
+Los Angeles Lakers
+Lebron James
+27.2
+7.4
+7.2
+50.40%
+73.60%
+27.6
+3
+4
+Golden State Warriors
+Stephen Curry
+23.5
+4.5
+6.6
+47.70%
+90.50%
+23.8
+4
+5
+Houston Rockets
+James Harden
+24.5
+5.2
+6.2
+44.20%
+85.80%
+24.5
+5
+6
+Los Angeles Lakers
+Anthony Davis
+23.8
+10.5
+2.1
+51.60%
+79.70%
+27.4
+6
+7
+Philadelphia 76ers
+Joel Embiid
+24.3
+11.4
+3.2
+48.00%
+79.00%
+24.7
+7
+8
+Denver Nuggets
+Nikola Jokić
+16.2
+9.6
+5.2
+52.20%
+82.70%
+24.7
+8
+9
+Los Angeles Clippers
+Paul George
+19.8
+6.4
+3.3
+43.30%
+84.40%
+19.2
+9
+10
+Portland Trail Blazers
+Damian Lillard
+23.6
+4.2
+6.3
+43.40%
+88.90%
+21.5
+10
+11
+Miami Heat
+Jimmy Butler
+16.7
+4.9
+3.5
+45.40%
+83.40%
+20
+11
+12
+Houston Rockets
+Russell Westbrook
+23
+7
+8.4
+43.50%
+80.00%
+23.7
+12
+13
+Minnesota Timberwolves
+Karl-Anthony Towns
+22.3
+11.9
+2.6
+53.60%
+83.30%
+25.1
+13
+14
+Utah Jazz
+Rudy Gobert
+11.1
+10.6
+1.3
+62.80%
+63.20%
+21.4
+14
+15
+Brooklyn Nets
+Kyrie Irving
+22.4
+3.7
+5.7
+46.50%
+87.60%
+22.2
+15
+16
+San Antonio Spurs
+Lamarcus Aldridge
+19.6
+8.4
+2
+49.10%
+81.00%
+20.9
+16
+17
+Golden State Warriors
+Draymond Green
+9.1
+6.9
+4.9
+43.90%
+70.60%
+15.3
+17
+18
+Philadelphia 76ers
+Al Horford
+14.1
+8.4
+3.2
+52.50%
+75.40%
+18.9
+18
+19
+Detroit Pistons
+Blake Griffin
+21.9
+9
+4.5
+50.20%
+69.20%
+22.2
+19
+20
+Boston Celtics
+Kemba Walker
+19.9
+3.8
+5.5
+41.80%
+83.70%
+19.4
+20
+21
+Oklahoma City Thunder
+Chris Paul
+18.5
+4.4
+9.6
+46.90%
+86.80%
+25.3
+21
+22
+Washington Wizards
+Bradley Beal
+19.9
+4
+3.8
+45.10%
+79.80%
+17.2
+22
+23
+Philadelphia 76ers
+Ben Simmons
+16.2
+8.3
+7.9
+55.10%
+58.20%
+19.8
+23
+24
+Toronto Raptors
+Pascal Siakam
+10.5
+5.2
+2
+52.90%
+75.90%
+16.4
+24
+25
+New Orleans Pelicans
+Jrue Holiday
+15.6
+3.8
+6.8
+45.20%
+78.40%
+16.8
+25
+26
+Utah Jazz
+Mike Conley
+14.9
+2.9
+5.7
+44.00%
+81.90%
+17.6
+26
+27
+Milwaukee Bucks
+Khris Middleton
+15.7
+4.5
+3.2
+45.20%
+86.90%
+15.7
+27
+28
+Toronto Raptors
+Kyle Lowry
+14.5
+4.3
+6.1
+42.40%
+80.60%
+18.4
+28
+29
+Utah Jazz
+Donovan Mitchell
+22.3
+4
+3.9
+43.80%
+80.10%
+17.4
+29
+30
+Dallas Mavericks
+Luka Dončić
+21.7
+8
+6.2
+43.10%
+72.30%
+20.2
+30
+31
+San Antonio Spurs
+Demar Derozan
+19.9
+4.3
+3.4
+45.20%
+82.70%
+17.9
+31
+32
+Portland Trail Blazers
+CJ McCollum
+17.9
+3.1
+2.9
+45.40%
+84.10%
+17.1
+32
+33
+Sacramento Kings
+De'Aaron Fox
+14.8
+3.3
+6
+43.70%
+72.30%
+15.1
+33
+34
+Phoenix Suns
+Devin Booker
+21.5
+3.5
+4.3
+44.00%
+85.60%
+16.2
+34
+35
+Boston Celtics
+Jayson Tatum
+15.1
+5.6
+1.9
+45.90%
+83.60%
+15.3
+35
+36
+Detroit Pistons
+Andre Drummond
+14.3
+13.8
+1.2
+54.50%
+45.20%
+22.2
+36
+37
+Dallas Mavericks
+Kristaps Porzingis
+17.8
+7.1
+1.4
+43.60%
+79.90%
+18.2
+37
+38
+Denver Nuggets
+Jamal Murray
+14.9
+3.5
+3.4
+43.50%
+87.70%
+15.1
+38
+39
+Indiana Pacers
+Victor Oladipo
+17.5
+4.6
+4
+44.30%
+79.30%
+16.7
+39
+40
+Oklahoma City Thunder
+Steven Adams
+9.6
+7.4
+1
+58.60%
+54.90%
+16.7
+40
+41
+Cleveland Cavaliers
+Kevin Love
+18.9
+11.3
+2.3
+44.20%
+82.70%
+21.9
+41
+42
+Toronto Raptors
+Marc Gasol
+14.9
+7.7
+3.4
+48.30%
+77.70%
+18.4
+42
+43
+Denver Nuggets
+Paul Millsap
+14.1
+7.4
+2.3
+49.10%
+73.50%
+19
+43
+44
+Golden State Warriors
+D'Angelo Russell
+16.6
+3.7
+5.1
+41.80%
+76.00%
+16
+44
+45
+Orlando Magic
+Nikola Vucevic
+15.7
+10.1
+2.5
+50.10%
+74.40%
+20.3
+45
+46
+Milwaukee Bucks
+Eric Bledsoe
+14.1
+3.9
+4.8
+45.50%
+79.30%
+18
+46
+47
+Indiana Pacers
+Myles Turner
+12.9
+6.7
+1.2
+49.50%
+77.10%
+17.4
+47
+48
+Denver Nuggets
+Gary Harris
+12.4
+2.6
+2.1
+45.90%
+80.10%
+13.7
+48
+49
+Philadelphia 76ers
+Tobias Harris
+15.5
+6
+1.9
+47.10%
+82.10%
+16.7
+49
+50
+Oklahoma City Thunder
+Danilo Gallinari
+15.9
+4.9
+2
+42.60%
+87.20%
+17
+50
+51
+Atlanta Hawks
+John Collins
+14.6
+8.4
+1.6
+56.40%
+74.20%
+20.1
+51
+52
+Utah Jazz
+Bojan Bogdanović
+13.4
+3.4
+1.4
+46.40%
+84.70%
+13.5
+52
+53
+Los Angeles Clippers
+Lou Williams
+14.3
+2.2
+3.3
+42.00%
+83.90%
+18.5
+53
+54
+Sacramento Kings
+Buddy Hield
+15
+4.1
+2
+44.50%
+87.20%
+15.3
+54
+55
+New Orleans Pelicans
+Derrick Favors
+11.6
+7.2
+1.1
+52.50%
+66.40%
+18.9
+55
+56
+Houston Rockets
+Clint Capela
+12
+9.2
+0.9
+63.40%
+52.40%
+22.2
+56
+57
+Chicago Bulls
+Otto Porter
+11
+5
+1.5
+48.20%
+79.10%
+15.6
+57
+58
+Golden State Warriors
+Klay Thompson
+19.5
+3.5
+2.3
+45.90%
+84.80%
+16.4
+58
+59
+Boston Celtics
+Gordon Hayward
+15.2
+4.2
+3.4
+44.80%
+82.20%
+17.6
+59
+60
+Orlando Magic
+Aaron Gordon
+12.5
+6.2
+2.2
+45.00%
+70.60%
+15.3
+60
+61
+Indiana Pacers
+Malcolm Brogdon
+13.2
+3.6
+3.9
+48.20%
+90.40%
+16.2
+61
+62
+Atlanta Hawks
+Trae Young
+19.5
+3.7
+8
+42.10%
+82.60%
+17.5
+62
+63
+Houston Rockets
+Eric Gordon
+16.6
+2.5
+2.9
+42.60%
+81.30%
+14.4
+63
+64
+Minnesota Timberwolves
+Robert Covington
+12.7
+5.5
+1.5
+40.30%
+81.50%
+13.5
+64
+65
+Utah Jazz
+Joe Ingles
+8
+3.1
+3.4
+44.60%
+74.40%
+12.4
+65
+66
+Milwaukee Bucks
+Brook Lopez
+17.2
+6.5
+1.5
+49.70%
+79.20%
+19.9
+66
+67
+New Orleans Pelicans
+J.J. Redick
+12.9
+2
+2
+44.70%
+89.00%
+15
+67
+68
+Boston Celtics
+Jaylen Brown
+11.3
+4
+1.3
+46.30%
+66.00%
+12.8
+68
+69
+Brooklyn Nets
+Caris Levert
+11.5
+3.6
+3.4
+43.80%
+70.30%
+13.8
+69
+70
+Chicago Bulls
+Thaddeus Young
+13.3
+6
+1.7
+50.10%
+67.10%
+16.3
+70
+71
+Philadelphia 76ers
+Josh Richardson
+12.2
+3.2
+2.9
+42.50%
+82.30%
+12.8
+71
+72
+Sacramento Kings
+Harrison Barnes
+13.6
+4.9
+1.5
+44.70%
+79.50%
+13.3
+72
+73
+Phoenix Suns
+Ricky Rubio
+11.1
+4.2
+7.7
+38.80%
+83.90%
+15.8
+73
+74
+Houston Rockets
+P.J. Tucker
+7.5
+5.7
+1.4
+42.40%
+74.60%
+10.9
+74
+75
+Chicago Bulls
+Lauri Markkanen
+16.6
+8.1
+1.3
+43.00%
+85.00%
+16.2
+75
+76
+Indiana Pacers
+Domantas Sabonis
+10.7
+6.9
+2
+51.40%
+72.80%
+16
+76
+77
+Los Angeles Clippers
+Montrezl Harrell
+11.5
+4.5
+1.3
+63.20%
+63.10%
+22.4
+77
+78
+Portland Trail Blazers
+Jusuf Nurkić
+11.6
+8
+1.9
+49.10%
+66.60%
+19.1
+78
+79
+New York Knicks
+Julius Randle
+15.4
+8.9
+2.8
+50.10%
+71.90%
+17.5
+79
+80
+Toronto Raptors
+Serge Ibaka
+12.4
+7.3
+0.7
+51.40%
+76.20%
+17.2
+80
+81
+Los Angeles Clippers
+Patrick Beverley
+9
+4.3
+3.4
+41.10%
+76.90%
+12.5
+81
+82
+Boston Celtics
+Marcus Smart
+9.3
+3.5
+3.9
+37.20%
+76.40%
+11.8
+82
+83
+Memphis Grizzlies
+Jaren Jackson Jr.
+13.5
+4.7
+1.1
+49.70%
+76.90%
+15.8
+83
+84
+Orlando Magic
+Al-Farouq Aminu
+7.7
+6.1
+1.2
+42.20%
+74.60%
+12.4
+84
+85
+New Orleans Pelicans
+Brandon Ingram
+14.3
+4.8
+2.9
+46.30%
+66.60%
+12.2
+85
+86
+Memphis Grizzlies
+Andre Iguodala
+12.1
+5.1
+4.4
+46.60%
+71.00%
+15.7
+86
+87
+Minnesota Timberwolves
+Jeff Teague
+12.7
+2.5
+5.8
+44.60%
+84.20%
+17.2
+87
+88
+Memphis Grizzlies
+Jonas Valančiūnas
+12.1
+8.5
+0.8
+55.70%
+78.70%
+19.9
+88
+89
+Los Angeles Lakers
+Danny Green
+9
+3.5
+1.6
+42.50%
+81.50%
+13.2
+89
+90
+Chicago Bulls
+Zach Lavine
+16.2
+2.4
+3.5
+44.60%
+82.20%
+14.9
+90
+91
+San Antonio Spurs
+Derrick White
+8.8
+3.2
+3.1
+48.30%
+77.50%
+15.2
+91
+92
+Brooklyn Nets
+Spencer Dinwiddie
+11.1
+2.6
+4.5
+40.70%
+80.00%
+14.7
+92
+93
+Miami Heat
+Bam Adebayo
+8.2
+6.6
+2
+54.90%
+71.60%
+17.2
+93
+94
+San Antonio Spurs
+Dejounte Murray
+6.9
+4.4
+2.5
+44.70%
+71.30%
+14.9
+94
+95
+Brooklyn Nets
+Joe Harris
+9.5
+2.9
+1.5
+47.80%
+79.40%
+12
+95
+96
+Los Angeles Lakers
+Kyle Kuzma
+17.2
+5.8
+2.1
+45.20%
+73.00%
+14
+96
+97
+Brooklyn Nets
+Jarrett Allen
+9.6
+7.9
+1
+59.00%
+73.20%
+18
+97
+98
+Brooklyn Nets
+Deandre Jordan
+9.6
+10.9
+0.9
+67.00%
+46.00%
+18.5
+98
+99
+Orlando Magic
+Terrence Ross
+10.8
+2.8
+1.1
+42.30%
+81.90%
+12.6
+99
+100
+Minnesota Timberwolves
+Andrew Wiggins
+19.4
+4.3
+2.2
+44.00%
+73.50%
+14.5
+100
